@@ -94,7 +94,37 @@ npm start
 
 ## Screenshots
 
+**Giao diện đặc trưng**
+<img width="1420" height="812" alt="image" src="https://github.com/user-attachments/assets/9415389a-c408-4472-ab91-64336b468b97" />
 
+**Giao diện quản trị viên**
+(Thống kê)
+<img width="1437" height="825" alt="image" src="https://github.com/user-attachments/assets/7e2e53b8-bd6f-48bd-8b7c-1ccdeeeedcfd" />
+
+(Chi tiết số học sinh trên từng tuyến đường - đã đăng kí sử dụng dịch vụ)
+<img width="1442" height="825" alt="image" src="https://github.com/user-attachments/assets/12a1a065-2d6f-40b1-b901-47bb47b51066" />
+
+(Tạo điểm trạm, và tuyến đường trực tuyến trên map)
+<img width="1534" height="873" alt="image" src="https://github.com/user-attachments/assets/ccbe8d85-1e2c-44da-b985-646fedf67045" />
+
+(Quản lý lịch trình và xe bus)
+<img width="1643" height="933" alt="image" src="https://github.com/user-attachments/assets/ccc98d63-961b-4510-9385-127a62973145" />
+
+(Giám sát trực tiếp thông qua Socket.io - GPS)
+<img width="1643" height="942" alt="image" src="https://github.com/user-attachments/assets/b9cd2bf4-737c-4d3c-a780-29dffaa45b55" />
+
+**Giao diện phụ huynh theo dõi học sinh của mình**
+<img width="1643" height="936" alt="image" src="https://github.com/user-attachments/assets/0ba854f7-eb57-4734-bb9e-715b04a93e43" />
+
+**Giao diện tài xế**
+(Nhận lịch trình)
+<img width="1652" height="937" alt="image" src="https://github.com/user-attachments/assets/f0696c29-0d01-49ba-9de3-33c230ff7766" />
+
+(Quản lý học sinh trên xe bằng QR - thẻ học sinh)
+<img width="1661" height="939" alt="image" src="https://github.com/user-attachments/assets/0b1a42e1-9c6c-48b1-a210-7f005f66eabc" />
+
+(Lịch trình được cập nhật khi tới giờ)
+<img width="1658" height="953" alt="image" src="https://github.com/user-attachments/assets/122b0c83-b11e-4813-9434-e31298538c2b" />
 
 ---
 
