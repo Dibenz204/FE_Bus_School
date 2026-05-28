@@ -8,7 +8,7 @@
 
 A responsive web application serving **3 user roles** — Admin, Parent, and Driver — with real-time bus tracking via interactive map, student attendance visibility, and route/bus stop management.
 
-**Live Demo:** [Vercel deployment link — điền vào đây]  
+**Live Demo:** [Do Railway đã hết hạn, nên việc kết nối với Backend đã không còn được] 
 **Backend Repo:** [https://github.com/Dibenz204/BE_bus_school](https://github.com/Dibenz204/BE_bus_school)
 
 ---
@@ -133,7 +133,8 @@ npm start
 
 | Role | Member |
 |---|---|
-| Frontend Lead & Team Leader | Nguyễn Đình Phong |
+| Backend & Frontend Leader | Nguyễn Đình Phong |
+| Frontend | Trương Thị Ngọc Nhi |
 
 ---
 
